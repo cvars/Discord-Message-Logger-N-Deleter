@@ -35,7 +35,7 @@ window.webpackChunkdiscord_app.push([[Symbol()], {}, o => {
 }]);
 window.webpackChunkdiscord_app.pop();
 
-# Navigate to project folder
+# Navigate to project folder using cmd(command prompt)
 cd Discord-Message-Logger-N-Deleter
 
 # Install required packages
